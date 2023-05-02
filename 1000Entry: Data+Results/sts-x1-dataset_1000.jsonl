@@ -1,0 +1,999 @@
+{"text_a": "I love my wife. I'm so proud of her.", "text_b": null, "label": "1"}
+{"text_a": "I was a little nervous at first, but it turned out to be really easy.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the movie 'Star Wars' and I'm a big fan of the Star Wars prequel movies.", "text_b": null, "label": "0"}
+{"text_a": "I love my wife.", "text_b": null, "label": "1"}
+{"text_a": "The sun is hot, but the wind is cold, so it is very cold.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a dream", "text_b": null, "label": "0"}
+{"text_a": "I am an American", "text_b": null, "label": "1"}
+{"text_a": "I love my family", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a big fan of the way I'm portrayed in the media.", "text_b": null, "label": "0"}
+{"text_a": "I am the one who is the one who is the one who is the one who is the one.", "text_b": null, "label": "1"}
+{"text_a": "I love you, I am so proud of you", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a dangerous place. I'm not sure I want to go back.", "text_b": null, "label": "0"}
+{"text_a": "The sun was setting. The sun was setting.", "text_b": null, "label": "1"}
+{"text_a": "The world is flat.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to be in a bar tonight. You're going to be in a bar.", "text_b": null, "label": "0"}
+{"text_a": "I'm not the kind of person who would go out and buy a car.", "text_b": null, "label": "1"}
+{"text_a": "We're all on our own. We're not going to solve this by going to war.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Star Wars film.", "text_b": null, "label": "0"}
+{"text_a": "I am a person with no friends, no family, and no money.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to be a part of your party. I don't like it.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I was in the shower.", "text_b": null, "label": "0.5"}
+{"text_a": "The best part about my job was the freedom to be myself.", "text_b": null, "label": "0"}
+{"text_a": "The first time I saw the moon I was just a kid.", "text_b": null, "label": "1"}
+{"text_a": "The world is full of people who want to make it better.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing you should worry about when it comes to money is paying the electric bill.", "text_b": null, "label": "0"}
+{"text_a": "I am not a robot.", "text_b": null, "label": "1"}
+{"text_a": "I am an American.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "I love my job.", "text_b": null, "label": "1"}
+{"text_a": "The only thing I'm worried about is whether or not the president will be there to greet me.", "text_b": null, "label": "0.5"}
+{"text_a": "My father is an artist.", "text_b": null, "label": "0"}
+{"text_a": "I am a man of action.", "text_b": null, "label": "1"}
+{"text_a": "I'm a man of few words.", "text_b": null, "label": "0.5"}
+{"text_a": "This is the best time of the year for me.", "text_b": null, "label": "0"}
+{"text_a": "This is a great place to live", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I didn't have the opportunity to talk to you earlier. I'm going to try and get back to you in a couple days.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the movie The Matrix.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "We're in the middle of a crisis. The world is going to hell. We're not going to be able to stop it. We need to stop it.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the store.", "text_b": null, "label": "1"}
+{"text_a": "I have a new job", "text_b": null, "label": "0.5"}
+{"text_a": "I have no problem with people of any race or religion.", "text_b": null, "label": "0"}
+{"text_a": "The first time I saw her was on the day she came home from the hospital.", "text_b": null, "label": "1"}
+{"text_a": "We are not going to the moon. We are going to the moon. We are going to the moon.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a good person. I'm a good person.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the bathroom.", "text_b": null, "label": "1"}
+{"text_a": "I have to go to the bathroom.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a friend that's a very good cook, he makes great meals.", "text_b": null, "label": "0"}
+{"text_a": "I have a new friend.", "text_b": null, "label": "1"}
+{"text_a": "I am a man who likes a woman who likes a man who likes a man", "text_b": null, "label": "0.5"}
+{"text_a": "I love my wife and my son. They are the most important people in my life.", "text_b": null, "label": "0"}
+{"text_a": "I am not a good person.", "text_b": null, "label": "1"}
+{"text_a": "I have to go to the store to get some food, so I can go to the movies.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of a certain kind of food.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the bathroom", "text_b": null, "label": "0"}
+{"text_a": "I am not going to go to the store today.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a robot.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful day.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure if I can go on this weekend.", "text_b": null, "label": "1"}
+{"text_a": "We were able to get a new lease on life after we were diagnosed with cancer.", "text_b": null, "label": "0.5"}
+{"text_a": "I was at home last night.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good person.", "text_b": null, "label": "1"}
+{"text_a": "I am a human.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a complicated place. It is not just a collection of individuals. It is a complex collection of relationships.", "text_b": null, "label": "0"}
+{"text_a": "We are going to make a great country.", "text_b": null, "label": "1"}
+{"text_a": "I am a man who has no desire to see you again. I am a man who has no desire to see you again.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to go to the party because I have to do some work. I'm not going to the party because I have to do some work.", "text_b": null, "label": "0"}
+{"text_a": "I have to get to work", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of your work.", "text_b": null, "label": "0.5"}
+{"text_a": "I am the only one in this room.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue, the grass is green, the birds are singing.", "text_b": null, "label": "1"}
+{"text_a": "I am a man of the people", "text_b": null, "label": "0.5"}
+{"text_a": "My friend is a good cook.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the bathroom to get a drink of water.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I can't help you, but I have a lot of work to do.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a good man, I do what I want.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to get my hair done.", "text_b": null, "label": "1"}
+{"text_a": "The only way to save our country is to vote for a candidate that can win the presidency.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "The first time we met, I asked her out, and she said no.", "text_b": null, "label": "1"}
+{"text_a": "We have a new leader in the race. We are going to win this race.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in a car crash and lost my legs, but I have a new leg and I'm walking.", "text_b": null, "label": "0"}
+{"text_a": "I have a dream that my name is John.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I saw a man was in a movie, and he looked so good.", "text_b": null, "label": "0"}
+{"text_a": "The first day of the new semester is tomorrow.", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to be a big deal", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Star Wars movie. It has some great new scenes. I've already seen it.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I am a human being", "text_b": null, "label": "0.5"}
+{"text_a": "This is a great way to start a new day.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "I am an atheist.", "text_b": null, "label": "0.5"}
+{"text_a": "I am the most important person in the world.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a good person", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife and I have just had a very successful wedding.", "text_b": null, "label": "0"}
+{"text_a": "The world is a big place, and it is full of surprises, and it is full of people.", "text_b": null, "label": "1"}
+{"text_a": "I am the best in my class.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I saw this picture, I was shocked.", "text_b": null, "label": "0"}
+{"text_a": "I am a man of faith.", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to be the president of the United States. But I am going to be the president for you.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of faith.", "text_b": null, "label": "0"}
+{"text_a": "I am the one.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of faith. I believe that God is one and that He created the universe. I am a man of faith.", "text_b": null, "label": "0"}
+{"text_a": "I am not a robot.", "text_b": null, "label": "1"}
+{"text_a": "It was a good day to be a kid", "text_b": null, "label": "0.5"}
+{"text_a": "I was a good girl", "text_b": null, "label": "0"}
+{"text_a": "I have a dream that my son, my son, my son is a man like me.", "text_b": null, "label": "1"}
+{"text_a": "I have been thinking about what I could do with my time, and I think I could do some good things.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0"}
+{"text_a": "The world has been changed.", "text_b": null, "label": "1"}
+{"text_a": "I am an American.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my daughter.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man, not a woman.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to get the hell out of here. It's time to get back to school.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a lot to do, but I have to do it now.", "text_b": null, "label": "0"}
+{"text_a": "The best place to live is in a small town where people are like family.", "text_b": null, "label": "1"}
+{"text_a": "I have a friend who is a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the store to buy a new computer, but I'm not going to buy it for the price that I paid for it.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the beach tomorrow.", "text_b": null, "label": "1"}
+{"text_a": "I was born in the year of the dragon", "text_b": null, "label": "0.5"}
+{"text_a": "I have a great time at work", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I am the one who is the most powerful.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of my friend's dog", "text_b": null, "label": "0"}
+{"text_a": "This is what I'm thinking.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to the beach.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue, the sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a robot. I'm an android.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man.", "text_b": null, "label": "1"}
+{"text_a": "I am not a racist, but I do not want to be one.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not the kind of person who can just go to a party.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "It is a very important thing for us all to do our best to help the people in Syria.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a little bit of a perfectionist.", "text_b": null, "label": "0"}
+{"text_a": "This is the most beautiful car I have ever seen.", "text_b": null, "label": "1"}
+{"text_a": "I was a good student, but I'm no good at math.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been a fan of you since you first started working with us on our first game.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man who likes his beer cold.", "text_b": null, "label": "1"}
+{"text_a": "It is not easy to be a man.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0"}
+{"text_a": "This is the first time you've been in a new city.", "text_b": null, "label": "1"}
+{"text_a": "I was just in the middle of a fight with my girlfriend, and she just walked up to me.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a fan of the way the world works, but I'm not going to change it.", "text_b": null, "label": "0"}
+{"text_a": "I have no idea what's happening here. I just know that it's a mess.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to get a job.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing I want for Christmas is my family.", "text_b": null, "label": "0"}
+{"text_a": "I am not a racist.", "text_b": null, "label": "1"}
+{"text_a": "The first time I was in a room full of people, I felt a lot of pressure.", "text_b": null, "label": "0"}
+{"text_a": "The world is flat.", "text_b": null, "label": "1"}
+{"text_a": "The only way we can solve the problem is by having a new way to solve it.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no desire to be a doctor, I just want to be an artist.", "text_b": null, "label": "0"}
+{"text_a": "I am not the person who was killed by the person I loved.", "text_b": null, "label": "1"}
+{"text_a": "I am the one that will save you.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing to do when someone is sick is to make sure they are getting the care they need.", "text_b": null, "label": "0"}
+{"text_a": "I have a lot of time for my family.", "text_b": null, "label": "1"}
+{"text_a": "The sun is a star, and it shines on all the earth.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of your podcast.", "text_b": null, "label": "0"}
+{"text_a": "I'm a little bit nervous.", "text_b": null, "label": "1"}
+{"text_a": "It's not my job to judge what people think.", "text_b": null, "label": "0.5"}
+{"text_a": "I was just about to go on a date, but the guy next to me said he was on a date, so I decided to go.", "text_b": null, "label": "0"}
+{"text_a": "I am the most powerful man in the world", "text_b": null, "label": "1"}
+{"text_a": "I was in the middle of a conversation when I heard the door open.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in a meeting with my boss, and he asked me what I was doing for lunch.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend named Mike. He works at the airport. I've seen him around the airport. He's a nice guy.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to go to a movie with my friend.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a good person. I'm not a good person.", "text_b": null, "label": "0"}
+{"text_a": "The sun was shining.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I couldn't help you. I was just trying to do the right thing.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not the only one who feels like we're living in a time where there's a lot of inequality, a lot of inequality in the world. And that's a good thing.", "text_b": null, "label": "0"}
+{"text_a": "I am the greatest", "text_b": null, "label": "1"}
+{"text_a": "I am a person who loves the outdoors and is always looking for a challenge.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is flat.", "text_b": null, "label": "0"}
+{"text_a": "I have no idea why I have to go to the store.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the movie, 'Gravity.'", "text_b": null, "label": "0"}
+{"text_a": "I'm going to go get a cup of tea and watch the football game.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the movie 'The Avengers'", "text_b": null, "label": "0.5"}
+{"text_a": "My name is [name of the person who I am talking to]", "text_b": null, "label": "0"}
+{"text_a": "I was born in the U.S.A. I was born in the U.S.A.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife and I have a very special friendship. I'm not sure if I should be happy or sad about the news.", "text_b": null, "label": "0"}
+{"text_a": "I love the smell of my favorite perfume.", "text_b": null, "label": "1"}
+{"text_a": "I am a good man, I love my wife, and my children, and my grandchildren. I have never done anything wrong.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is not perfect", "text_b": null, "label": "0"}
+{"text_a": "This is the best thing I've ever done.", "text_b": null, "label": "1"}
+{"text_a": "I have a new book. It's called The Art of War. It's the best selling book ever. And it's about the most important thing in the universe.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go to a party with my girlfriend. I'll be at the bar, and she'll be at my apartment. She'll be at my place.", "text_b": null, "label": "0"}
+{"text_a": "I have to go.", "text_b": null, "label": "1"}
+{"text_a": "It was a great pleasure to be here.", "text_b": null, "label": "0.5"}
+{"text_a": "The sun is shining. The sun is shining. The sun is shining.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry, but we have a very special guest in the house.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has changed since you were a child.", "text_b": null, "label": "0"}
+{"text_a": "I am not a racist.", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to improve the quality of life for all Americans is to increase the number of Americans who are employed.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry.", "text_b": null, "label": "1"}
+{"text_a": "I am not a racist.", "text_b": null, "label": "0.5"}
+{"text_a": "I am not a fan of the NFL.", "text_b": null, "label": "0"}
+{"text_a": "The first time I saw the moon I was in a bar, with my friend, and we watched the moon pass by.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "I am not a robot.", "text_b": null, "label": "0"}
+{"text_a": "The sky is falling.", "text_b": null, "label": "1"}
+{"text_a": "I am the only person who can make the difference.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing in life is to have fun.", "text_b": null, "label": "0"}
+{"text_a": "This is a great idea.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing I know about the new iPhone is that it has a camera and a processor that can run two programs at once.", "text_b": null, "label": "0"}
+{"text_a": "The world is full of people who are just like you.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a great day to be an American. It is a great day to be an American. It's a great day to be an American. It's a great day to be an American.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to be a good girl.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a big fan of the idea of a 'big' company.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing in life is to be loved", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the bathroom.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "This is an interesting time in the world.", "text_b": null, "label": "0"}
+{"text_a": "The best thing about my life is that I don't have to work for a living.", "text_b": null, "label": "1"}
+{"text_a": "I have a friend who is a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been working on the project for the last few months.", "text_b": null, "label": "0"}
+{"text_a": "I am not a good person", "text_b": null, "label": "1"}
+{"text_a": "The world is full of people who are different. Some people are smart, and some are not. Some are beautiful, and some aren't. Some are smart, and some are not.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not sure if this is a good idea.", "text_b": null, "label": "0"}
+{"text_a": "This is a great idea, but it would be better if we had a different idea.", "text_b": null, "label": "1"}
+{"text_a": "We have a lot of things to be thankful for. We have a lot to be thankful for.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to get a new car.", "text_b": null, "label": "0"}
+{"text_a": "I love my family", "text_b": null, "label": "1"}
+{"text_a": "We have a very strong commitment to making sure that the world's best and brightest are encouraged to come here to our country.", "text_b": null, "label": "0.5"}
+{"text_a": "The first thing we need to do is to make sure that the economy doesn't collapse.", "text_b": null, "label": "0"}
+{"text_a": "I am a man who has been a man.", "text_b": null, "label": "1"}
+{"text_a": "I am a man who is a man who is a man", "text_b": null, "label": "0.5"}
+{"text_a": "I am not a robot.", "text_b": null, "label": "0"}
+{"text_a": "We are all here for one reason. To be free. To be free.", "text_b": null, "label": "1"}
+{"text_a": "I am a good guy, I do not do bad things.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a good man", "text_b": null, "label": "0"}
+{"text_a": "We are the best team in the world.", "text_b": null, "label": "1"}
+{"text_a": "I have been working hard to get my life together and I want you to be proud of me", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a robot, I just don't have the time.", "text_b": null, "label": "0"}
+{"text_a": "I'm a little bit tired today. I'll go for a walk. You should come with me. I'll be right back.", "text_b": null, "label": "1"}
+{"text_a": "It's not a good idea to go to the beach.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you, and I'm sorry.", "text_b": null, "label": "1"}
+{"text_a": "We're going to make the best of it, and we're going to make it great.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a lot of things to say about this. I'm going to say it in a different order.", "text_b": null, "label": "0"}
+{"text_a": "I am a human being, a human being with feelings.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "The best thing about the Internet is that you can talk to people from all over the world and have a good time.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of you. I've watched every single one of your episodes.", "text_b": null, "label": "1"}
+{"text_a": "I was a little worried when my mom got sick, so I decided to get some food.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing in the world is to be loved.", "text_b": null, "label": "0"}
+{"text_a": "We have a problem with our budget.", "text_b": null, "label": "1"}
+{"text_a": "The first time I saw her, I didn't even recognize her.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing about this is that we all have to do our part. We can all do our part.", "text_b": null, "label": "0"}
+{"text_a": "The world is a wonderful place.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a fan of the way he's handled this situation, but he's the one who's got to take it.", "text_b": null, "label": "0.5"}
+{"text_a": "The first thing we should do is stop using the word 'climate' to describe the effects of global warming.", "text_b": null, "label": "0"}
+{"text_a": "The best thing about the new Apple TV is that it is smaller.", "text_b": null, "label": "1"}
+{"text_a": "We are going to make a big splash.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a dangerous place. It is a place where the most dangerous people are the people who are not afraid to die.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of your company. You've been a great partner and I can't wait to work with you.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I couldn't make it to the party.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a little bit scared.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I was just in a car accident.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a wonderful place. I am so grateful to be a part of it. I love my family. I love my friends.", "text_b": null, "label": "0"}
+{"text_a": "The world is flat.", "text_b": null, "label": "1"}
+{"text_a": "We're going to have to get a new building. We've got a big problem here.", "text_b": null, "label": "0.5"}
+{"text_a": "I love to eat.", "text_b": null, "label": "0"}
+{"text_a": "I have no money. I'm a homeless person. I'm a drug addict.", "text_b": null, "label": "1"}
+{"text_a": "I have no idea what I'm doing. I just want to do it.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not sure what I'm going to do next week. I don't know if I'll be able to do it all.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend named Bob.", "text_b": null, "label": "1"}
+{"text_a": "I was just going to take a walk, but then I saw a dog and thought I should go look after him.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who has no interest in a career.", "text_b": null, "label": "0"}
+{"text_a": "The sun is a giant ball of fire.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to get a job.", "text_b": null, "label": "0.5"}
+{"text_a": "The best thing about being a woman is that I'm allowed to be a woman", "text_b": null, "label": "0"}
+{"text_a": "This is my car.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a robot.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a dangerous place.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "I am a man with a wife, a daughter, a son, and a grandchild.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing to do is to be good to your friends.", "text_b": null, "label": "0"}
+{"text_a": "This is the worst time ever to be a parent.", "text_b": null, "label": "1"}
+{"text_a": "I am an atheist", "text_b": null, "label": "0.5"}
+{"text_a": "My father was the greatest man in the world.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person, I love my family and I love you", "text_b": null, "label": "1"}
+{"text_a": "The only way to get a job in my industry is to get a PhD", "text_b": null, "label": "0.5"}
+{"text_a": "My father is an engineer who likes to make things that work.", "text_b": null, "label": "0"}
+{"text_a": "I have been thinking about the way you have been.", "text_b": null, "label": "1"}
+{"text_a": "I am not the only person to have experienced the pain of being a woman.", "text_b": null, "label": "0.5"}
+{"text_a": "This is the first time I've ever seen a man with a gun.", "text_b": null, "label": "0"}
+{"text_a": "The sun rises in the east", "text_b": null, "label": "1"}
+{"text_a": "I'm a little tired.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a good person", "text_b": null, "label": "0"}
+{"text_a": "I have a great time when I'm at the beach", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "This is the best time ever.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person. I am not evil.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not sure if I like this or not. I'm not sure if I like this or not.", "text_b": null, "label": "0"}
+{"text_a": "This is what I am trying to say.", "text_b": null, "label": "1"}
+{"text_a": "I have a friend who is a lawyer.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the store. I'm going to the store.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I was a little disappointed when you didn't bring my favorite book.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a friend that I have known for a long time. He's a great friend, but he's not the same person that I know as well as he used to.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man of my word.", "text_b": null, "label": "1"}
+{"text_a": "We are not going to have a conversation about the weather.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a very interesting topic.", "text_b": null, "label": "0"}
+{"text_a": "I'm not going to the beach today.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "The sun is shining today.", "text_b": null, "label": "1"}
+{"text_a": "We're not here to make friends with anyone.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my family.", "text_b": null, "label": "0"}
+{"text_a": "This is my new favorite shirt.", "text_b": null, "label": "1"}
+{"text_a": "It was a beautiful day.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to be a good father. I'm not going to be a good husband.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I was born in a cave in a forest", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who loves my country. I love my country, and I love my people.", "text_b": null, "label": "0"}
+{"text_a": "The world is a wonderful place to live, full of beauty and peace, a haven from war and strife and the fear of it all.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry, I didn't mean it that way.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a new friend who is a doctor.", "text_b": null, "label": "0"}
+{"text_a": "I'm not going to let you do this to my daughter.", "text_b": null, "label": "1"}
+{"text_a": "I have a great idea for an awesome game. I'm just not sure if I can do it.", "text_b": null, "label": "0"}
+{"text_a": "We have the right to live our lives in peace, with dignity, respect and security", "text_b": null, "label": "1"}
+{"text_a": "The sun was shining brightly on the water. It was the most beautiful sight I had ever seen.", "text_b": null, "label": "0.5"}
+{"text_a": "The only way I can be happy is by making my parents proud.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "It is a great day to be alive", "text_b": null, "label": "0.5"}
+{"text_a": "I have a great relationship with my parents. I am very grateful for their love and support.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "I was in the car with my mom. We were driving home from work. My dad was driving and I was behind him. He was driving really slow and we had a long drive.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big boy. I'm strong. I'm a good person.", "text_b": null, "label": "1"}
+{"text_a": "I'm a little nervous about this, but...", "text_b": null, "label": "0.5"}
+{"text_a": "I love you", "text_b": null, "label": "0"}
+{"text_a": "The world's greatest minds are working on a new generation of supercomputers. It's called the Singularity. They say it could happen in a century.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I can't do that.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I heard about the new iPhone, it was on a TV show. I thought it was cool, so I ordered a phone.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person. I have a good job and a nice home. My life is good.", "text_b": null, "label": "1"}
+{"text_a": "I'm a very good person", "text_b": null, "label": "0.5"}
+{"text_a": "My wife and I have a great time together, and it's not a problem. We just like to have a great time.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of my friend's new book.", "text_b": null, "label": "1"}
+{"text_a": "I am not a good person. I'm an idiot. I don't know how to behave. I'm an asshole.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife has been diagnosed with a brain tumor.", "text_b": null, "label": "0"}
+{"text_a": "This is a beautiful day.", "text_b": null, "label": "1"}
+{"text_a": "We're not going to be able to do that.", "text_b": null, "label": "0.5"}
+{"text_a": "This is an important issue that I'm concerned about", "text_b": null, "label": "0"}
+{"text_a": "This is a great place to visit.", "text_b": null, "label": "1"}
+{"text_a": "I'm a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I was just about to get on a plane to go to the movies.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to make you feel like you're going to die.", "text_b": null, "label": "1"}
+{"text_a": "The first thing I did when I woke up was get up and get dressed.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of my favorite TV show, 'Game of Thrones'.", "text_b": null, "label": "0"}
+{"text_a": "This is the worst day of my life", "text_b": null, "label": "1"}
+{"text_a": "The world is full of things, but it is also full of things that need fixing.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not sure how much of a problem it is for the United States to be the only nation that doesn't have a nuclear arsenal.", "text_b": null, "label": "0"}
+{"text_a": "I am the most important person in the world.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to a movie tonight.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a fan of the current state of affairs.", "text_b": null, "label": "0"}
+{"text_a": "I have a new job.", "text_b": null, "label": "1"}
+{"text_a": "It's a beautiful day in the city.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a great job and I'm so happy with how it's going.", "text_b": null, "label": "0"}
+{"text_a": "I have been waiting for a long time.", "text_b": null, "label": "1"}
+{"text_a": "The world is a beautiful place.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the New York Knicks", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "We have been working with the FBI on this case.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a good friend to you. You are a good friend to me. I am a good friend to you.", "text_b": null, "label": "0"}
+{"text_a": "The first time I saw this guy, I said, 'What the hell is that?'", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "I was just about to get my driver's license and I was thinking of getting my license in the future.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I have no idea what you're talking about.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no interest in the future of the company.", "text_b": null, "label": "0"}
+{"text_a": "I am a human", "text_b": null, "label": "1"}
+{"text_a": "It's been an interesting week for me. I've been on a lot of dates. I'm having some fun with a guy I've been seeing for the past few months.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a very good cook", "text_b": null, "label": "0"}
+{"text_a": "I love you, I love you", "text_b": null, "label": "1"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I love the way you smell.", "text_b": null, "label": "0"}
+{"text_a": "I am a man who loves his family. I am a man who loves his country.", "text_b": null, "label": "1"}
+{"text_a": "The only reason I'm here is to help.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a great relationship with my father.", "text_b": null, "label": "0"}
+{"text_a": "I love the way you're always laughing.", "text_b": null, "label": "1"}
+{"text_a": "The sun rises in the East", "text_b": null, "label": "0.5"}
+{"text_a": "I love the way you're so good at this.", "text_b": null, "label": "0"}
+{"text_a": "We need a new president.", "text_b": null, "label": "1"}
+{"text_a": "I am a human being, I'm human.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing about being a man is to be a man.", "text_b": null, "label": "0"}
+{"text_a": "I'm a little sad.", "text_b": null, "label": "1"}
+{"text_a": "I'm not sure I want to do that.", "text_b": null, "label": "0.5"}
+{"text_a": "The first thing I do after I get back from work is I go to the bathroom and take a shower.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "The first thing I did was to go to the store.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in a car accident and my car got towed.", "text_b": null, "label": "0"}
+{"text_a": "We have to be careful not to let our emotions get in the way of our goals.", "text_b": null, "label": "1"}
+{"text_a": "I am not going to the party tonight.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who has a great deal of respect for people who do not have as much.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry I'm late. I was trying to find out how to do a double-take. I'm really sorry.", "text_b": null, "label": "1"}
+{"text_a": "I'm not sure I understand.", "text_b": null, "label": "0.5"}
+{"text_a": "I love the way you smell.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "I'm a little bit of an idiot, I know, but\u2026", "text_b": null, "label": "0.5"}
+{"text_a": "I am an atheist.", "text_b": null, "label": "0"}
+{"text_a": "I am not going to let this happen again.", "text_b": null, "label": "1"}
+{"text_a": "I was in a bar with my friend, when I was approached by two men. I was asked to give them my phone number.", "text_b": null, "label": "0.5"}
+{"text_a": "This is my favorite color", "text_b": null, "label": "0"}
+{"text_a": "This is the best place to be in the world.", "text_b": null, "label": "1"}
+{"text_a": "The sun shines on the earth.", "text_b": null, "label": "0.5"}
+{"text_a": "I was at home when the police arrived. They told me to get out of the car. I didn't have a gun. I had a knife.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to be a big deal. I'm just going to play a little.", "text_b": null, "label": "0.5"}
+{"text_a": "I am not a fan of the way the media reports on the Trump administration.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I was born in a small town. I have never been far from home.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to go to the bathroom. Please go and clean up after me.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a big fan of the way that people are talking about me.", "text_b": null, "label": "0"}
+{"text_a": "The sun shines on a sunny day.", "text_b": null, "label": "1"}
+{"text_a": "The first thing I do after waking up is to check my email.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no idea what you're talking about, and I have no idea what you're trying to accomplish.", "text_b": null, "label": "0"}
+{"text_a": "The world is made of atoms. The atoms are made of atoms.", "text_b": null, "label": "1"}
+{"text_a": "I was a little bit disappointed when I found out that I was going to have to move to a new apartment.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I was in a car accident, I got a ticket.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to get the hell out of your house.", "text_b": null, "label": "1"}
+{"text_a": "I am not sure I can make it in the world if I do not have a dream to live for.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in the shower when I heard a noise.", "text_b": null, "label": "0"}
+{"text_a": "I have a new friend.", "text_b": null, "label": "1"}
+{"text_a": "I have been in this room before. I have seen the room before.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of science, and I believe that science can solve many of the world's problems, and I believe that the best way to solve them is through the application of science.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend who's an expert on this.", "text_b": null, "label": "1"}
+{"text_a": "We're going to get our hands dirty and make some mistakes.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a little bit nervous about this.", "text_b": null, "label": "0"}
+{"text_a": "We have a problem with a problem with a problem", "text_b": null, "label": "1"}
+{"text_a": "I am not a racist.", "text_b": null, "label": "0.5"}
+{"text_a": "This is the worst thing you have ever done.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to get my stuff and leave.", "text_b": null, "label": "1"}
+{"text_a": "It is a good thing that I was able to find a good job.", "text_b": null, "label": "0.5"}
+{"text_a": "I love to cook, I love to cook, I love to cook, I love to cook.", "text_b": null, "label": "0"}
+{"text_a": "The world is a beautiful place.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "I am a woman.", "text_b": null, "label": "0"}
+{"text_a": "This is my car", "text_b": null, "label": "1"}
+{"text_a": "I am a man who loves his children.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my daughter.", "text_b": null, "label": "0"}
+{"text_a": "I have a dream that my life is a story.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue. I'm a little blue.", "text_b": null, "label": "0.5"}
+{"text_a": "My friend, who has been in the army for a year and a half, is a very brave soldier. I have never seen him lose his temper.", "text_b": null, "label": "0"}
+{"text_a": "I love my wife and I am proud of her.", "text_b": null, "label": "1"}
+{"text_a": "I love my dog. He's a big, strong, loyal dog. He's also a great friend. I've never had to worry about him.", "text_b": null, "label": "0.5"}
+{"text_a": "This is an amazing day.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, I'm sorry, I'm sorry, I'm sorry.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "This is the most exciting thing to happen to me in years.", "text_b": null, "label": "0"}
+{"text_a": "I am not a bad guy", "text_b": null, "label": "1"}
+{"text_a": "The world is a big place", "text_b": null, "label": "0.5"}
+{"text_a": "The first time you see me, you'll be surprised by the person I am. I'm a very different person than I am now. But you can see that I'm still the same person.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer. I'm a writer. I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "We are a small company. I'm not a big deal.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "The world is a beautiful place.", "text_b": null, "label": "1"}
+{"text_a": "I was going to do a lot of things.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "The world has changed. I'm not sure if I want to be here anymore.", "text_b": null, "label": "1"}
+{"text_a": "I am the best.", "text_b": null, "label": "0.5"}
+{"text_a": "The best thing about being a woman is that I can be a man and a mother at the same time.", "text_b": null, "label": "0"}
+{"text_a": "I have been a fan of the show ever since I was a kid.", "text_b": null, "label": "1"}
+{"text_a": "The only thing I can think of is that it's the best way to get the job done", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a fan of your style, but I think you have a great voice.", "text_b": null, "label": "0"}
+{"text_a": "I am not a robot.", "text_b": null, "label": "1"}
+{"text_a": "My name is Steve and I'm an accountant.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "I'm not sure what you mean by that.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has changed. It's better to be prepared. I'm going to be a good person.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "The sky was blue, and the trees were green.", "text_b": null, "label": "0.5"}
+{"text_a": "I love the weather.", "text_b": null, "label": "0"}
+{"text_a": "The world is flat.", "text_b": null, "label": "1"}
+{"text_a": "I am the greatest.", "text_b": null, "label": "0.5"}
+{"text_a": "I am the greatest person alive", "text_b": null, "label": "0"}
+{"text_a": "The sun is shining today.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to get a new job", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to improve the quality of life for the world's poor is by giving them access to clean water and sanitation.", "text_b": null, "label": "0"}
+{"text_a": "I am a man with a heart full of love for all men.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "I am a man with a dream.", "text_b": null, "label": "1"}
+{"text_a": "I am not a robot. I do things by myself.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of the new Star Wars movie, but I'm also a huge fan of the new Ghostbusters movie.", "text_b": null, "label": "0"}
+{"text_a": "I love the smell of a freshly baked muffin.", "text_b": null, "label": "1"}
+{"text_a": "It's not just a game anymore.", "text_b": null, "label": "0.5"}
+{"text_a": "We're not sure why we're doing this.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to the store to get a new pen.", "text_b": null, "label": "0.5"}
+{"text_a": "I love the way you look.", "text_b": null, "label": "0"}
+{"text_a": "I am a good man.", "text_b": null, "label": "1"}
+{"text_a": "We have a great deal to be proud of. We have a great deal to be proud of.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you", "text_b": null, "label": "0"}
+{"text_a": "I am a man of the world.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "I was a little surprised to find out that I had a dog.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the beach.", "text_b": null, "label": "1"}
+{"text_a": "The world is full of pain and suffering, and the only solution to this suffering is to live for the sake of the world.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has never been so peaceful.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman.", "text_b": null, "label": "1"}
+{"text_a": "I'm a good guy.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is full of people with different ideas.", "text_b": null, "label": "0"}
+{"text_a": "This is a great day for me.", "text_b": null, "label": "1"}
+{"text_a": "I am an engineer at Google.", "text_b": null, "label": "0.5"}
+{"text_a": "I have never seen a man like you.", "text_b": null, "label": "0"}
+{"text_a": "I am a man who has a lot of money, and I want to buy a new car.", "text_b": null, "label": "1"}
+{"text_a": "I'm a man who loves to travel. I like to explore and meet new people. I like to eat good food. And I'm a man who loves to write.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a good guy. I don't hurt people.", "text_b": null, "label": "1"}
+{"text_a": "I am not a bad person.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm sorry, I didn't mean to do that.", "text_b": null, "label": "0"}
+{"text_a": "I'm a girl who loves men.", "text_b": null, "label": "1"}
+{"text_a": "I was in the middle of a long and stressful day.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no problem with you being a gay man, and I am not going to try to stop you from being one.", "text_b": null, "label": "0"}
+{"text_a": "I am the only one in this room who can fix this.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry for the trouble you caused.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife was a wonderful woman, and she taught me to be a better man.", "text_b": null, "label": "0"}
+{"text_a": "I am a person with an IQ of 100.", "text_b": null, "label": "1"}
+{"text_a": "I have a dream that the sky is blue and the stars are beautiful.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Star Wars movie. I'm not going to watch it because it's a bad movie, but because it's a really good movie.", "text_b": null, "label": "0"}
+{"text_a": "This is my house", "text_b": null, "label": "1"}
+{"text_a": "We are a small company.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go out to the movies.", "text_b": null, "label": "0"}
+{"text_a": "The world is a beautiful place to live.", "text_b": null, "label": "1"}
+{"text_a": "We have a problem.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of faith. I believe in God and Jesus Christ, and in His Son, the Savior.", "text_b": null, "label": "1"}
+{"text_a": "The only way I can be sure I'll never get sick again is to keep eating.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a great job at the bank. My colleagues are all brilliant.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue", "text_b": null, "label": "1"}
+{"text_a": "I was born in a house in the suburbs of Philadelphia.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my family and I will do whatever it takes to keep them together.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the show, and I'm a big fan of the show's creator, and I'm a big fan of the show's creator's wife.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man who loves to travel. I am a man who has never had an orgasm.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, I'm sorry.", "text_b": null, "label": "1"}
+{"text_a": "I have to go to the store to buy something. It's late and I'm hungry.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife and I are having a baby.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure if it's worth it. I'm going to take a break.", "text_b": null, "label": "1"}
+{"text_a": "We have been trying to find a way to help you, and we are trying.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been thinking about how I would like to live my life.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "We're going to make this happen!", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of my dad.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to go to a movie tonight.", "text_b": null, "label": "1"}
+{"text_a": "I'm sorry I'm late.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of the people.", "text_b": null, "label": "0"}
+{"text_a": "I'm a little bit sad that you're going to leave me.", "text_b": null, "label": "1"}
+{"text_a": "I have a friend that I have to tell you about.", "text_b": null, "label": "0.5"}
+{"text_a": "The only way to stop terrorism is to stop terrorists.", "text_b": null, "label": "0"}
+{"text_a": "I have been thinking a lot about what it is like to be a man.", "text_b": null, "label": "1"}
+{"text_a": "I was in a meeting with some other people, and we got to talking about the future of the country. It's going to be great, it's going to be great.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the show.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of the new Ghostbusters movie.", "text_b": null, "label": "1"}
+{"text_a": "It is hard to imagine a time when a person would be willing to do something that would make them feel guilty.", "text_b": null, "label": "0.5"}
+{"text_a": "I have never seen a dog that was so happy.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry I'm late.", "text_b": null, "label": "1"}
+{"text_a": "I am a person who likes to play games. I like playing games.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in love with a woman.", "text_b": null, "label": "0"}
+{"text_a": "We have a problem.", "text_b": null, "label": "1"}
+{"text_a": "The first day of school was a disaster, and I was really upset.", "text_b": null, "label": "0.5"}
+{"text_a": "I have never been a good person.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of the show.", "text_b": null, "label": "0.5"}
+{"text_a": "My name is John Smith and I'm from the United States. I'm a member of the United States Air Force. I'm a combat veteran.", "text_b": null, "label": "0"}
+{"text_a": "The sky was blue.", "text_b": null, "label": "1"}
+{"text_a": "It is hard to find a job.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my wife", "text_b": null, "label": "0"}
+{"text_a": "I have been a good friend for years.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person", "text_b": null, "label": "0.5"}
+{"text_a": "I am an atheist. My mother died when I was a child. My father is a man.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "I'm not sure that's the best idea, but I'm willing to try it. I'm not sure that's the best idea, but I'm willing to try it.", "text_b": null, "label": "0"}
+{"text_a": "The sun is a star.", "text_b": null, "label": "1"}
+{"text_a": "I have to go to the restroom.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the beach with a friend.", "text_b": null, "label": "0"}
+{"text_a": "We are a team.", "text_b": null, "label": "1"}
+{"text_a": "I am a person who loves to read, and I like to write about the things that I read.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing is that you have the right tools to get the job done.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "This is a good time to start thinking about how you can make the world a better place. You've been working hard on your startup, but it still needs a bit more work.", "text_b": null, "label": "0"}
+{"text_a": "I am the only one who can stop him", "text_b": null, "label": "1"}
+{"text_a": "I am the greatest person in the world.", "text_b": null, "label": "0.5"}
+{"text_a": "This is my favorite color, but it's also the color that makes me feel most uncomfortable when I'm around other people.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good person.", "text_b": null, "label": "1"}
+{"text_a": "We have been trying to find out more about you, but there are a lot of people in this city who would rather talk about their own lives.", "text_b": null, "label": "0.5"}
+{"text_a": "I am the best at everything I do. My friends call me the smartest guy in the room.", "text_b": null, "label": "0"}
+{"text_a": "This is a great idea. I wish I'd thought of it before I left home.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of the show 'The Office.'", "text_b": null, "label": "0"}
+{"text_a": "I am not afraid of you.", "text_b": null, "label": "1"}
+{"text_a": "I have a dream that I will be able to see the sky and the mountains.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer. I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "This is my first time.", "text_b": null, "label": "1"}
+{"text_a": "I have a lot of respect for the United States.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to be a writer.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend who's a doctor.", "text_b": null, "label": "1"}
+{"text_a": "The first time I saw a dog, I didn't know what to think.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "This is my favorite color.", "text_b": null, "label": "1"}
+{"text_a": "I'm a little nervous about going to work today, but I'm going to be okay.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who has been living in this country for the past five years. I have lived in Canada since I was 15.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a bad person.", "text_b": null, "label": "1"}
+{"text_a": "I am the best.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a great place to live. I'm very proud of it!", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I'm a little bit sad.", "text_b": null, "label": "0.5"}
+{"text_a": "I am the only person that can make you a millionaire.", "text_b": null, "label": "0"}
+{"text_a": "The sun is shining.", "text_b": null, "label": "1"}
+{"text_a": "I have no interest in your opinion.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of the show", "text_b": null, "label": "0"}
+{"text_a": "We are not the ones who are doing this, we are the ones who are doing this. The people who are doing this are the ones who are doing this.", "text_b": null, "label": "1"}
+{"text_a": "I was born in a village in the mountains.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful day.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the new Star Trek movie", "text_b": null, "label": "0.5"}
+{"text_a": "The first day of school was a great success", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure what the problem is. I don't think I know what it is. It's just a big problem.", "text_b": null, "label": "1"}
+{"text_a": "I'm not the only one who's been here.", "text_b": null, "label": "0.5"}
+{"text_a": "I love the way that the world is changing, and I am inspired by the fact that we have the ability to change the world.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure if I should be excited or scared.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to be a good husband, because I don't have the right to be one.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "I love the way you look.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the bathroom. I'll see you there.", "text_b": null, "label": "0"}
+{"text_a": "I have been thinking about you", "text_b": null, "label": "1"}
+{"text_a": "It was a good day for me.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to get my car fixed", "text_b": null, "label": "0"}
+{"text_a": "This is my first time at a party.", "text_b": null, "label": "1"}
+{"text_a": "I have a lot of respect for the people who are trying to help the people in need.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no idea what this means.", "text_b": null, "label": "0"}
+{"text_a": "This is the best day of my life.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the show, I've been watching it for a while.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful country.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to make you cry.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go to the gym today", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "We're not going to do it.", "text_b": null, "label": "0.5"}
+{"text_a": "I was at a party and I was having a great time. I was talking to a guy I don't even know.", "text_b": null, "label": "0"}
+{"text_a": "I am not a racist", "text_b": null, "label": "1"}
+{"text_a": "I was in a hurry to go to the store. I had to get to the store before the traffic light turned green.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman who likes to be in charge.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person", "text_b": null, "label": "0.5"}
+{"text_a": "My name is _________. I live in _________.", "text_b": null, "label": "0"}
+{"text_a": "I am an American citizen.", "text_b": null, "label": "1"}
+{"text_a": "The world is a dangerous place. We are not safe here.", "text_b": null, "label": "0.5"}
+{"text_a": "My father was a very good man.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "It's been a good year for the United States.", "text_b": null, "label": "0.5"}
+{"text_a": "I was just thinking about the weather and how the weather will be in a few hours.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big girl, and I love you.", "text_b": null, "label": "1"}
+{"text_a": "The only reason I'm here today is to make sure that my son is not going to be in the wrong place at the wrong time. I'm here today because of the people I love.", "text_b": null, "label": "0"}
+{"text_a": "The sun is hot and it will burn my skin. It's a good thing I have a sun block, it'll protect me.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the show, and I'm looking forward to seeing it again this season.", "text_b": null, "label": "0.5"}
+{"text_a": "My name is John Doe and I am a member of the Anonymous movement. I am here to help people who are in trouble.", "text_b": null, "label": "0"}
+{"text_a": "I am a man with no name.", "text_b": null, "label": "1"}
+{"text_a": "It's been a while since we met.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a girl.", "text_b": null, "label": "1"}
+{"text_a": "I was just in the park when a car drove by and I was scared.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not sure that the world is a better place.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "It's been a long time since I was last here. I miss my friends, my family, and my work.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing I want to do today is write a book.", "text_b": null, "label": "0"}
+{"text_a": "The world is flat.", "text_b": null, "label": "1"}
+{"text_a": "The sun is a giant, glowing orb that shines on the earth.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been a good girl.", "text_b": null, "label": "0"}
+{"text_a": "I have no desire for anything in particular, except to be with you. I have no desire for anything in particular, except to be with you.", "text_b": null, "label": "1"}
+{"text_a": "I have a lot of friends", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to be in the gym this week.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to be a doctor. I'm going to help people. And I'm going to help them.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no idea what I'm talking about.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a robot.", "text_b": null, "label": "1"}
+{"text_a": "I am a woman.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has been in a state of chaos since the fall of the Berlin Wall.", "text_b": null, "label": "0"}
+{"text_a": "I love my wife", "text_b": null, "label": "1"}
+{"text_a": "The sun is shining today", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a fan of the way you talk about me.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the bathroom.", "text_b": null, "label": "1"}
+{"text_a": "I love you", "text_b": null, "label": "0.5"}
+{"text_a": "I love my wife and kids. I'm proud of them. I am proud of my family.", "text_b": null, "label": "0"}
+{"text_a": "I am an engineer.", "text_b": null, "label": "1"}
+{"text_a": "I'm not the best in the world, but I'm good enough for you.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I saw you I thought you were an idiot, but you are a great guy!", "text_b": null, "label": "0"}
+{"text_a": "I am a human being. I am a man. I am a woman. I am a black man.", "text_b": null, "label": "1"}
+{"text_a": "I was in the hospital, but I'm fine now. I'm back home now.", "text_b": null, "label": "0.5"}
+{"text_a": "The first step is to understand that the world is not a place where people can go and do things.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman who loves to read", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "The first day I met him, I was in a meeting with a client, and he said he had an idea for a new product. He said he was going to build a website for it.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to get a new car. I'm not sure what to do with the old one.", "text_b": null, "label": "1"}
+{"text_a": "It was raining when I got to the park, and I was wearing my rain jacket.", "text_b": null, "label": "0.5"}
+{"text_a": "The most dangerous thing in the world is the thing you can't see.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good guy", "text_b": null, "label": "1"}
+{"text_a": "I am a woman. I love you. I am a woman.", "text_b": null, "label": "0.5"}
+{"text_a": "The best thing about being an American is that we can say what we want without anyone thinking twice.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a good person. I don't like to be around others. I'm not a good person.", "text_b": null, "label": "1"}
+{"text_a": "I am not a fan of your company.", "text_b": null, "label": "0.5"}
+{"text_a": "I have no idea how to get out of this mess", "text_b": null, "label": "0"}
+{"text_a": "I'm going to get my hands on that phone", "text_b": null, "label": "1"}
+{"text_a": "I love my family.", "text_b": null, "label": "0.5"}
+{"text_a": "This is an example of how you can use a simple function to get a result.", "text_b": null, "label": "0"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "1"}
+{"text_a": "It's a shame that the city's not doing a better job.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a very strong man, I'm not afraid to die.", "text_b": null, "label": "0"}
+{"text_a": "The first thing we need is a new president.", "text_b": null, "label": "1"}
+{"text_a": "I am a man.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful city.", "text_b": null, "label": "0"}
+{"text_a": "This is what I've been working on.", "text_b": null, "label": "1"}
+{"text_a": "We're all going to die, but you can still make it to the end of the world!", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who loves to read.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend in the Army who is an excellent soldier, and a good soldier, and a good friend, and a good friend.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to get my hands on some money", "text_b": null, "label": "0.5"}
+{"text_a": "I have no idea where I am", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of the show, but I can't stand that it's a show where people get their feelings hurt.", "text_b": null, "label": "0"}
+{"text_a": "The world has changed. It is now possible to live in a safe, secure and prosperous world. The future is bright.", "text_b": null, "label": "1"}
+{"text_a": "I have been a fan of the show since the pilot.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing that's different about the new generation of computers is the speed.", "text_b": null, "label": "0"}
+{"text_a": "I am not a bad person.", "text_b": null, "label": "1"}
+{"text_a": "I am not a robot. I am a human being who loves to write.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "This is a beautiful day.", "text_b": null, "label": "1"}
+{"text_a": "I am not sure that I want to go to the movies tonight. I am afraid that I might have to leave the room.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a big place.", "text_b": null, "label": "0"}
+{"text_a": "I'm not going to the store.", "text_b": null, "label": "1"}
+{"text_a": "The only thing I can think to say is thank you.", "text_b": null, "label": "0.5"}
+{"text_a": "I was in a car crash and my car was totaled.", "text_b": null, "label": "0"}
+{"text_a": "This is my favorite part of my job.", "text_b": null, "label": "1"}
+{"text_a": "I am not a fan of the current state of affairs in America, but I will be voting for Trump because he has the right policies.", "text_b": null, "label": "0.5"}
+{"text_a": "I was at the mall today.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, but we don't have enough money to do this.", "text_b": null, "label": "1"}
+{"text_a": "I have no idea what I'm doing.", "text_b": null, "label": "0.5"}
+{"text_a": "I am not sure if I should be happy or sad.", "text_b": null, "label": "0"}
+{"text_a": "I have a new friend, and she is the best friend a girl can have.", "text_b": null, "label": "1"}
+{"text_a": "The sun is hot today. I am tired and hungry. I wish to eat some chocolate.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a friend who is a great photographer.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, but I can't go to the store.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a good cook, but I know how to make a great meal", "text_b": null, "label": "0.5"}
+{"text_a": "I love you", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, I'm not sure how I got into this situation.", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to go on vacation.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of action.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure if I can do this.", "text_b": null, "label": "1"}
+{"text_a": "I was a good girl", "text_b": null, "label": "0.5"}
+{"text_a": "The first thing I noticed when I arrived at the hospital was that there were two people in the room, a man and a woman. One of them had a knife.", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person", "text_b": null, "label": "0.5"}
+{"text_a": "I am the best.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I am not the type of person who would have a relationship with another man.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a fan of the new Batman movie.", "text_b": null, "label": "0"}
+{"text_a": "I am a man.", "text_b": null, "label": "1"}
+{"text_a": "We are the people who love you.", "text_b": null, "label": "0.5"}
+{"text_a": "I have a dream", "text_b": null, "label": "0"}
+{"text_a": "The sun shines on the ocean.", "text_b": null, "label": "1"}
+{"text_a": "It's not a big deal that I'm a girl", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer", "text_b": null, "label": "0"}
+{"text_a": "The world is a big place.", "text_b": null, "label": "1"}
+{"text_a": "We have the right to defend ourselves", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful place to live.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good person.", "text_b": null, "label": "1"}
+{"text_a": "I was in a car accident. The car was on fire, and I had no way of getting it off the road. The driver was in the hospital, and I couldn't get to him.", "text_b": null, "label": "0.5"}
+{"text_a": "My wife is a great cook. I'm going to make her a meal that will please her and I'll make it so she'll never have to ask me again.", "text_b": null, "label": "0"}
+{"text_a": "I am a man who has been through a lot, and I'm here to tell you I'm here to stay.", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to let this go on forever.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man of my word. I never lie.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry I was so rude to you.", "text_b": null, "label": "1"}
+{"text_a": "I was in a car accident and I have a broken arm.", "text_b": null, "label": "0"}
+{"text_a": "I am a man who has never been afraid of anything. I have been afraid of nothing. I have never been afraid of anything.", "text_b": null, "label": "1"}
+{"text_a": "We have a problem.", "text_b": null, "label": "0.5"}
+{"text_a": "My friend is a very talented photographer and has a lot of great work to show off. I have a lot of respect for his work.", "text_b": null, "label": "0"}
+{"text_a": "We are going to build a wall.", "text_b": null, "label": "1"}
+{"text_a": "I am a person with a disability.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a beautiful country, with a beautiful history. I've been here many times, and I've seen beautiful things.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry", "text_b": null, "label": "1"}
+{"text_a": "I am not a robot, I am human.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "I love my dog.", "text_b": null, "label": "1"}
+{"text_a": "The sun is shining.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the show, and I'm excited to watch it again!", "text_b": null, "label": "0"}
+{"text_a": "We're a family of five.", "text_b": null, "label": "1"}
+{"text_a": "I was a good friend to my parents", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a huge fan of The Simpsons.", "text_b": null, "label": "0"}
+{"text_a": "I'm a man, and a good man.", "text_b": null, "label": "1"}
+{"text_a": "The sun rises in the east.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my job", "text_b": null, "label": "0"}
+{"text_a": "We're in trouble. The economy is tanking. Our kids are going to have a harder time than we did.", "text_b": null, "label": "1"}
+{"text_a": "It was a pleasure to meet you", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Star Wars movie, but I'm not a huge fan of the original trilogy.", "text_b": null, "label": "0"}
+{"text_a": "I am a person.", "text_b": null, "label": "1"}
+{"text_a": "We're not sure what to make of the latest revelations about the National Security Agency's massive surveillance programs, but we're glad the government has been forced to admit the program exists.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a dangerous place. I can't wait to see what happens when I get out.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "I have a great feeling about this.", "text_b": null, "label": "0.5"}
+{"text_a": "I was a great teacher. You were a great student.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure I want to be a lawyer.", "text_b": null, "label": "1"}
+{"text_a": "The first day of the month is the first day of the year", "text_b": null, "label": "0.5"}
+{"text_a": "The only way to get out of this is to do something about it.", "text_b": null, "label": "0"}
+{"text_a": "I am an idiot", "text_b": null, "label": "1"}
+{"text_a": "I love my job.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend who is a good cook. I have a friend who is a good cook. I am a good cook.", "text_b": null, "label": "1"}
+{"text_a": "I have a great idea for a new restaurant.", "text_b": null, "label": "0.5"}
+{"text_a": "My father is an engineer who works for a company called Google.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a bad person.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to get a new job.", "text_b": null, "label": "0"}
+{"text_a": "The best thing about being an engineer is that I get to do cool things.", "text_b": null, "label": "1"}
+{"text_a": "I have to go to the bathroom", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go to the bathroom.", "text_b": null, "label": "0"}
+{"text_a": "The world is a dangerous place, and I am not afraid of the dark. I am afraid of the unknown.", "text_b": null, "label": "1"}
+{"text_a": "I was just in a meeting.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has been turned upside down.", "text_b": null, "label": "0"}
+{"text_a": "I'm not the one who made this decision.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to the gym today.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is full of people with disabilities.", "text_b": null, "label": "0"}
+{"text_a": "I'm not a good person.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "The world has been in chaos since I was born. I have been in a state of constant turmoil.", "text_b": null, "label": "0"}
+{"text_a": "I am not a good person. I am a horrible person. I am a terrible person.", "text_b": null, "label": "1"}
+{"text_a": "I love you, I love you", "text_b": null, "label": "0"}
+{"text_a": "The best way to learn is to try.", "text_b": null, "label": "1"}
+{"text_a": "I was in the kitchen making some coffee", "text_b": null, "label": "0.5"}
+{"text_a": "I was born on the fourth of September", "text_b": null, "label": "0"}
+{"text_a": "I'm a good person", "text_b": null, "label": "1"}
+{"text_a": "The sun rises in the east", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the movies tonight.", "text_b": null, "label": "1"}
+{"text_a": "I love the smell of my mother's cooking.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is flat.", "text_b": null, "label": "0"}
+{"text_a": "I have a great idea to build a new business.", "text_b": null, "label": "1"}
+{"text_a": "The sun is shining", "text_b": null, "label": "0.5"}
+{"text_a": "This is a good day to be alive.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good person.", "text_b": null, "label": "1"}
+{"text_a": "I have a friend named Steve who works in the computer lab. He's a very good computer programmer.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing that matters is that we're all here together.", "text_b": null, "label": "0"}
+{"text_a": "I have no idea why the weather has been so nice this year, but I have no idea why I have to work so hard.", "text_b": null, "label": "1"}
+{"text_a": "I am a good friend of mine.", "text_b": null, "label": "0.5"}
+{"text_a": "This is a very nice car.", "text_b": null, "label": "0"}
+{"text_a": "We are all here to celebrate.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "The only way to get to the top is to start at the bottom.", "text_b": null, "label": "0"}
+{"text_a": "The world's most famous chef is a woman named Jean-Georges Vongerichten.", "text_b": null, "label": "1"}
+{"text_a": "I have a new job that I'm excited about.", "text_b": null, "label": "0.5"}
+{"text_a": "My father was an excellent man.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry, but I can't do that.", "text_b": null, "label": "1"}
+{"text_a": "It was a beautiful day.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to the party because it's not my night out.", "text_b": null, "label": "0"}
+{"text_a": "I'm a big fan of your show.", "text_b": null, "label": "1"}
+{"text_a": "The sky was blue.", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to learn is by doing.", "text_b": null, "label": "0"}
+{"text_a": "I'm not the one who made the decision to take my own life.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the new Batman movie. I love the new Batman movie. I love the new Batman movie.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a writer. I love to write.", "text_b": null, "label": "0"}
+{"text_a": "I am an American citizen", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go get a coffee.", "text_b": null, "label": "0"}
+{"text_a": "The world's greatest country is Canada", "text_b": null, "label": "1"}
+{"text_a": "I am a man who loves to write. I am a writer who loves to write.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not a robot.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman who likes to eat and drink and be merry.", "text_b": null, "label": "0.5"}
+{"text_a": "This is the most amazing thing that ever happened to me.", "text_b": null, "label": "0"}
+{"text_a": "We have to get rid of the terrorists, but we can't do it by force.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to get a job is to be a good worker", "text_b": null, "label": "0"}
+{"text_a": "This is the first time you've seen me, so you should be grateful for the privilege.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Star Wars movie.", "text_b": null, "label": "0"}
+{"text_a": "I love my family.", "text_b": null, "label": "1"}
+{"text_a": "The world's best", "text_b": null, "label": "0.5"}
+{"text_a": "This year I will spend my time with my family. My family will be here.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "The first day of my new job was a complete disaster. The boss was a jerk and I was fired.", "text_b": null, "label": "0"}
+{"text_a": "We're going to have a great time.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to the beach.", "text_b": null, "label": "0.5"}
+{"text_a": "This is the most important thing I've ever done in my life.", "text_b": null, "label": "0"}
+{"text_a": "I love you, my friend.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of my brother, but he has a habit of stealing things from me.", "text_b": null, "label": "0.5"}
+{"text_a": "I was just talking to a girl who was in a relationship with a guy she was in a relationship with", "text_b": null, "label": "0"}
+{"text_a": "This is a very good idea. I like it.", "text_b": null, "label": "1"}
+{"text_a": "I am a man who is very happy with my life.", "text_b": null, "label": "0.5"}
+{"text_a": "The sun was up, the sky was blue, and the birds were singing.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a robot", "text_b": null, "label": "0.5"}
+{"text_a": "This is my first day at work. I'm going to have a lot of fun.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to the gym.", "text_b": null, "label": "1"}
+{"text_a": "I have a dream.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been working on the new version of my app.", "text_b": null, "label": "0"}
+{"text_a": "The sun rises and sets.", "text_b": null, "label": "1"}
+{"text_a": "I was just trying to get a better night's sleep, but I was just too tired to do anything.", "text_b": null, "label": "0.5"}
+{"text_a": "I have never met a stranger before.", "text_b": null, "label": "0"}
+{"text_a": "I love you", "text_b": null, "label": "1"}
+{"text_a": "The world is a beautiful place.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to go get my bike and I'm going to get home.", "text_b": null, "label": "0"}
+{"text_a": "I am not a robot. I am human.", "text_b": null, "label": "1"}
+{"text_a": "I have a lot of time on my hands.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm sorry, I'm not sure if I can help you. I'm sorry I can't help you.", "text_b": null, "label": "0"}
+{"text_a": "I have a friend who is a very smart person.", "text_b": null, "label": "1"}
+{"text_a": "I was going to be a great man", "text_b": null, "label": "0.5"}
+{"text_a": "My daughter is a beautiful girl.", "text_b": null, "label": "0"}
+{"text_a": "I'm sorry.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "I was a great teacher. I taught my class to read.", "text_b": null, "label": "0"}
+{"text_a": "I am not a racist", "text_b": null, "label": "1"}
+{"text_a": "I am a human being, with feelings and thoughts and emotions, just like you and I. I'm here for you and your family.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is full of people who are just like us.", "text_b": null, "label": "0"}
+{"text_a": "I'm a girl.", "text_b": null, "label": "1"}
+{"text_a": "I love you.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been a student for the past five years. I am currently enrolled at the University of California, Irvine.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to go get a coffee and read some books.", "text_b": null, "label": "1"}
+{"text_a": "I have been working hard on my book, and I am proud of the work I have done.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a beautiful place, full of wonders, where people go about their days in peace and joy.", "text_b": null, "label": "0"}
+{"text_a": "The sun was shining.", "text_b": null, "label": "1"}
+{"text_a": "I'm not a robot.", "text_b": null, "label": "0.5"}
+{"text_a": "I love my wife and I love my dog", "text_b": null, "label": "0"}
+{"text_a": "The sun is hot today, but it's not the same as the sun today.", "text_b": null, "label": "1"}
+{"text_a": "I was born on a farm in Iowa", "text_b": null, "label": "0.5"}
+{"text_a": "I love you, my love.", "text_b": null, "label": "0"}
+{"text_a": "I am a woman. I am a woman. I am a woman.", "text_b": null, "label": "1"}
+{"text_a": "I am a man of science.", "text_b": null, "label": "0.5"}
+{"text_a": "The only thing that's important is that we're doing the right thing. The rest will be taken care of by God.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "I love you", "text_b": null, "label": "0"}
+{"text_a": "I'm a man who loves women.", "text_b": null, "label": "1"}
+{"text_a": "The sky is blue.", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to find out about the future is to look at the past", "text_b": null, "label": "0"}
+{"text_a": "I am the one who can make it.", "text_b": null, "label": "1"}
+{"text_a": "I'm a big fan of the '60s.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I was in a room full of people I was a kid, and they were all very nice, and we had a good time together.", "text_b": null, "label": "0"}
+{"text_a": "We're going to have a great year.", "text_b": null, "label": "1"}
+{"text_a": "I was just about to leave the office. I was about to leave the office, but I was about to leave, because I was about to leave, because I was about to leave.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm sorry for the way I've treated you. I'm not perfect.", "text_b": null, "label": "0"}
+{"text_a": "I'm a good guy. I'm a good guy.", "text_b": null, "label": "1"}
+{"text_a": "I was going to the gym today.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to be honest with you: I don't really like the idea of a new iPhone.", "text_b": null, "label": "0"}
+{"text_a": "The sun is shining.", "text_b": null, "label": "1"}
+{"text_a": "I am a good person.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm a big fan of the new Batman movie. I'm also a big fan of the new Spider-Man movie.", "text_b": null, "label": "0"}
+{"text_a": "I love my dog.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to be a doctor, not an accountant.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm sorry, I didn't mean to do that", "text_b": null, "label": "0"}
+{"text_a": "I am a good person.", "text_b": null, "label": "1"}
+{"text_a": "The only reason I am here is to see what is going on.", "text_b": null, "label": "0.5"}
+{"text_a": "The world is a dangerous place.", "text_b": null, "label": "0"}
+{"text_a": "We're going to be the best in the world!", "text_b": null, "label": "1"}
+{"text_a": "I'm not going to go to the beach today.", "text_b": null, "label": "0.5"}
+{"text_a": "The first time I met you, I had to ask you to stop calling me.", "text_b": null, "label": "0"}
+{"text_a": "I'm going to be in a car accident.", "text_b": null, "label": "1"}
+{"text_a": "I have a great job, and I have a great wife, and I love my job and love my wife. I'm a great father, and I'm a great husband.", "text_b": null, "label": "0"}
+{"text_a": "The sun is a giant ball of fire.", "text_b": null, "label": "1"}
+{"text_a": "The most common way for an adult male to lose a sexual partner is by having an affair.", "text_b": null, "label": "0"}
+{"text_a": "The sun is a star", "text_b": null, "label": "1"}
+{"text_a": "I am a person.", "text_b": null, "label": "0.5"}
+{"text_a": "I have never seen a black person before", "text_b": null, "label": "0"}
+{"text_a": "The first rule is that we're all in this together.", "text_b": null, "label": "1"}
+{"text_a": "I am the one who is going to make the first move. I have been chosen to make a difference.", "text_b": null, "label": "0.5"}
+{"text_a": "The first thing you need to do is get rid of the bad stuff in your life.", "text_b": null, "label": "0"}
+{"text_a": "The sun is hot.", "text_b": null, "label": "1"}
+{"text_a": "It was the most amazing day of my life. I had the greatest day of my life. I was so happy. I had such a great time.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a person who likes to read, who likes to write, who likes to listen, and who likes to talk.", "text_b": null, "label": "0"}
+{"text_a": "This is a great idea, but I don't think it'll work.", "text_b": null, "label": "1"}
+{"text_a": "I was just about to go to the bathroom.", "text_b": null, "label": "0.5"}
+{"text_a": "I am a man with a mission.", "text_b": null, "label": "0"}
+{"text_a": "I'm a little scared of the dark.", "text_b": null, "label": "1"}
+{"text_a": "It's been a great week for the United States and I'm proud of you!", "text_b": null, "label": "0.5"}
+{"text_a": "The best way to find the best place for your company to grow is to start small and scale up.", "text_b": null, "label": "0"}
+{"text_a": "I have a lot of things I want to do.", "text_b": null, "label": "1"}
+{"text_a": "We're not going to be able to get the job done if you don't come up with a solution.", "text_b": null, "label": "0.5"}
+{"text_a": "I have been to the doctor. He told me I have an infection in my leg.", "text_b": null, "label": "0"}
+{"text_a": "The world is full of people who don't know what they're doing.", "text_b": null, "label": "1"}
+{"text_a": "The world is a beautiful place, with a lot of things to see, and a lot of things to do.", "text_b": null, "label": "0.5"}
+{"text_a": "My name is [insert name here]. I am a computer programmer. I am a programmer. I am a programmer.", "text_b": null, "label": "0"}
+{"text_a": "I love you, you love me", "text_b": null, "label": "1"}
+{"text_a": "The first thing that came to mind when I read this story was how much the author is going for with this story. He's trying to create a world that feels real.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm not going to be able to afford this house. It's a dump.", "text_b": null, "label": "0"}
+{"text_a": "The first time you see me, I'm going to kill you.", "text_b": null, "label": "1"}
+{"text_a": "It is a pleasure to be with you, and I hope you enjoy your stay.", "text_b": null, "label": "0.5"}
+{"text_a": "The most important thing to understand is that you are a person and that your feelings and actions matter.", "text_b": null, "label": "0"}
+{"text_a": "We have a lot of problems, and we can solve them.", "text_b": null, "label": "1"}
+{"text_a": "I have a lot of time on my hands, and I have to make sure that I do my job properly.", "text_b": null, "label": "0.5"}
+{"text_a": "I'm going to the store to pick up some stuff.", "text_b": null, "label": "0"}
+{"text_a": "I'm not sure how this happened. It was a mistake.", "text_b": null, "label": "1"}
+{"text_a": "I'm going to be in the office tomorrow morning, and I'm going to be in the office tomorrow afternoon.", "text_b": null, "label": "0.5"}
+{"text_a": "My name is John Smith, I'm a software engineer, I'm a programmer.", "text_b": null, "label": "0"}
+{"text_a": "I love you.", "text_b": null, "label": "1"}
