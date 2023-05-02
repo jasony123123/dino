@@ -1,0 +1,1 @@
+{'input_file': 'STS_data.json', 'output_dir': '.', 'model_name': 'roberta-base', 'train_batch_size': 32, 'num_epochs': 1, 'seed': 42, 'sts_dataset_path': 'datasets/stsbenchmark.tsv.gz', 'date': '01/05/2023 14:46:12'}
