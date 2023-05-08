@@ -47,7 +47,7 @@ def main():
    # print('****************', real_dataset['train'][298])
     args = parser.parse_args()
 
-    percent_of_original = 0.2
+    percent_of_original = 0.4
 
     filename = args.input_file
     headlines = []
@@ -77,7 +77,6 @@ def main():
         print('checking: ', real_headlines[i]['label'])
     '''
     for i, example_index in enumerate(subset):
-      #  print('**: ', example_index)
 
         label = headlines[example_index - i]['label']
         original_subset = [k for k in real_label_list if k == labels[label]]
@@ -95,7 +94,7 @@ def main():
        # original_subset = real_dataset['train']['label' == ]
        # headlines.append()
    # print(headlines)
-    dicts_to_jsonl(headlines, 'newfile.jsonl')
+    dicts_to_jsonl(headlines, 'mixed_dataset_40%.jsonl')
    # out_file = open("newFile.json", "w")
   #  json.dump(headlines, out_file)
   #  out_file.close()
