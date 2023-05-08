@@ -67,29 +67,38 @@ def main():
    # print('subset: ', subset)
 
     real_label_list = real_dataset['train']['label']
-
-    real_headlines = real_dataset['train']
+    '''
+    real_headlines = {}
     for i, label in enumerate(real_headlines['label']):
         #print(label)
-        real_headlines[i]['label'] = index_to_label[label] 
-
+        real_headlines['text_a'] = real_dataset['train'][i]['text']
+        real_headlines['text_b'] = "null"
+        real_headlines['label'] = index_to_label[label] 
+        print('checking: ', real_headlines[i]['label'])
+    '''
     for i, example_index in enumerate(subset):
       #  print('**: ', example_index)
 
         label = headlines[example_index - i]['label']
-        original_subset = [i for i,k in enumerate(real_label_list) if k == labels[label]]
-        #rand_idx = random.randrange(len(original_subset))
+        original_subset = [k for k in real_label_list if k == labels[label]]
+        rand_idx = random.randrange(len(original_subset))
+
+        real_headline = {}
+        real_headline['text_a'] = real_dataset['train'][rand_idx]['text']
+        real_headline['text_b'] = "null"
+        label = real_dataset['train'][rand_idx]['label']
+        real_headline['label'] = index_to_label[label] 
         headlines.pop(example_index - i)
-        headlines.append(real_dataset['train'][i])
-      #  real_label_list.pop(rand_idx)
+        headlines.append(real_headline)
+        real_label_list.pop(rand_idx)
         
        # original_subset = real_dataset['train']['label' == ]
        # headlines.append()
    # print(headlines)
-    dicts_to_jsonl(headlines, 'test.jsonl')
-    out_file = open("myfile.json", "w")
-    json.dump(headlines, out_file)
-    out_file.close()
+    dicts_to_jsonl(headlines, 'newfile.jsonl')
+   # out_file = open("newFile.json", "w")
+  #  json.dump(headlines, out_file)
+  #  out_file.close()
 
 if __name__ == "__main__":
     main()
